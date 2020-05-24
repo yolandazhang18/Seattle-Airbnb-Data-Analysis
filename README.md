@@ -40,7 +40,7 @@ Install the following libraries in Python 3.x and run the codes using Jupyter No
 pandas (v 0.23.3)<br>
 numpy (v 1.18.4)<br> 
 matplotlib (v 2.1.0)<br>
-seaborn (V 0.9.1)<br>
+seaborn (v 0.9.1)<br>
 sklearn (v 0.19.1)<br> 
 langdetect (v 1.0.8)<br>
 nltk (v 3.2.5)<br>
